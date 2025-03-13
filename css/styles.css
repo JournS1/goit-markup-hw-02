@@ -28,6 +28,7 @@ a {
 }
 
 .header-menu .header-link-menu {
+  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
@@ -48,6 +49,7 @@ a {
 .header-contacts .header-link-item:hover,
 .header-contacts .header-link-item:focus {
   color: #404bbf;
+  font-style: normal;
 }
 
 .hero {
@@ -96,6 +98,7 @@ a {
 }
 
 .team-title {
+  text-transform: capitalize;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -120,10 +123,9 @@ a {
   text-align: center;
 }
 
-.portfolio {
-}
-
 .portfolio-title {
+  text-transform: capitalize;
+
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -148,6 +150,7 @@ a {
   background-color: #2e2f42;
 }
 .footer-logo {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
