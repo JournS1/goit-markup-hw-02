@@ -54,7 +54,6 @@ a {
 }
 
 .hero-title {
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -70,6 +69,7 @@ a {
   color: #fff;
   background-color: #4d5ae5;
   text-align: center;
+  cursor: pointer;
 }
 
 .hero-btn:hover,
@@ -86,8 +86,6 @@ a {
 }
 
 .advantages-text {
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -97,7 +95,6 @@ a {
 }
 
 .team-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -117,8 +114,6 @@ a {
   color: #2e2f42;
 }
 .team-text {
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
@@ -128,18 +123,11 @@ a {
 }
 
 .portfolio-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-}
-
-.portfolio-list {
-}
-
-.portfolio-item {
 }
 
 .portfolio-name {
@@ -151,8 +139,6 @@ a {
 }
 
 .portfolio-text {
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -174,8 +160,6 @@ a {
 }
 
 .footer-text {
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
