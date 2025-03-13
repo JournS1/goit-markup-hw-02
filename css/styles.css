@@ -39,8 +39,11 @@ a {
   color: #404bbf;
 }
 
-.header-contacts .header-link-item {
+.header-contacts {
   font-style: normal;
+}
+
+.header-contacts .header-link-item {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -49,7 +52,6 @@ a {
 .header-contacts .header-link-item:hover,
 .header-contacts .header-link-item:focus {
   color: #404bbf;
-  font-style: normal;
 }
 
 .hero {
